@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7twJyAi/IqxzzE+1Mc7vy/lDbq/kqSlBF1WnJTT92oOAchrWTf8YMYuG/WtWHoz3/9hIQVuO9yMWK+DpiiRtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arajput4\\Desktop\\cs 4540\\backup\\Week2\\Week2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arajput4\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}

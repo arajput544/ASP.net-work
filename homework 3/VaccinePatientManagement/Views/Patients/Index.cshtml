@@ -1,0 +1,41 @@
+﻿@model List<Patient>
+
+
+<a asp-controller="Patients" asp-action="NewPatient">New Patient</a>
+<form method="post">
+    <table class="table">
+        <thead>
+            <tr><td>Id</td><td>Name</td><td>Vaccine</td><td>1st Dose</td><td>2nd Dose</td></tr>
+        </thead>
+        <tbody>
+            @foreach (var patient in Model)
+            {
+                <tr>
+                    <td>@patient.Id</td>
+                    <td>@patient.Name</td>
+                    <td>@patient.Dose.Name</td>
+                    <td>@patient.FirstDose.ToString("d")</td>
+                    @if (patient.SecondDose == null && patient.Dose.TotalDosesLeft > 0 && patient.Dose.DosesRequired == 1)
+                    {
+                        <td>-</td>
+                    }
+                    else if (patient.SecondDose == null && patient.Dose.TotalDosesLeft == 0)
+                    {
+                        <td>Out of Stock</td>
+                    }
+                    else if (patient.SecondDose == null && patient.Dose.TotalDosesLeft > 0 && patient.Dose.DosesRequired != 1)
+                    {
+                        <td><button class="btn btn-primary" name="id" value="@patient.Id">Received</button></td>
+                    }
+                    else
+                    {
+                        <td>@patient.SecondDose</td>
+                    }
+
+                </tr>
+
+            }
+
+        </tbody>
+    </table>
+</form>

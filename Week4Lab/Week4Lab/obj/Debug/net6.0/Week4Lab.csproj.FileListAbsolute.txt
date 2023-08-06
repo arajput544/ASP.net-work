@@ -1,0 +1,15 @@
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\bin\Debug\net6.0\Week4Lab.exe
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\bin\Debug\net6.0\Week4Lab.deps.json
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\bin\Debug\net6.0\Week4Lab.runtimeconfig.json
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\bin\Debug\net6.0\Week4Lab.dll
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\bin\Debug\net6.0\Week4Lab.pdb
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.csproj.AssemblyReference.cache
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.AssemblyInfoInputs.cache
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.AssemblyInfo.cs
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.csproj.CoreCompileInputs.cache
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.dll
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\refint\Week4Lab.dll
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.pdb
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\Week4Lab.genruntimeconfig.cache
+C:\Users\arajput4\Desktop\cs 4540\Week4Lab\Week4Lab\obj\Debug\net6.0\ref\Week4Lab.dll

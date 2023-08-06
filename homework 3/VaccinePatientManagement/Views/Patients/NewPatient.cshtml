@@ -1,0 +1,26 @@
+﻿@model List<Vaccine>
+
+<form method="post">
+    <div class="form-group">
+        <label>Patient</label>
+        <input type="text" name="Name" />
+    </div>
+    <div class="form-group">
+        <label>Vaccine</label>
+        <select name="Vaccine">
+            @foreach (var vaccine in Model)
+            {
+                if (vaccine.TotalDosesLeft == 0)
+                {
+                    continue;
+                }
+                else
+                {
+                    <option value="@vaccine.Id">@vaccine.Name</option>
+                }
+
+            }
+        </select>
+    </div>
+    <button class="btn btn-primary">Add</button>
+</form>

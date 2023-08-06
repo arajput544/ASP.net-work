@@ -1,0 +1,15 @@
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\bin\Debug\net6.0\Assignment1_q2.exe
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\bin\Debug\net6.0\Assignment1_q2.deps.json
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\bin\Debug\net6.0\Assignment1_q2.runtimeconfig.json
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\bin\Debug\net6.0\Assignment1_q2.dll
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\bin\Debug\net6.0\Assignment1_q2.pdb
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.csproj.AssemblyReference.cache
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.AssemblyInfoInputs.cache
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.AssemblyInfo.cs
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.csproj.CoreCompileInputs.cache
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.dll
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\refint\Assignment1_q2.dll
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.pdb
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\Assignment1_q2.genruntimeconfig.cache
+C:\Users\arajput4\Desktop\cs 4540\Assignment\Assignment1_q2\obj\Debug\net6.0\ref\Assignment1_q2.dll

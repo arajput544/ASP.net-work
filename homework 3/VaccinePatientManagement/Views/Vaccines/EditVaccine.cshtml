@@ -1,0 +1,21 @@
+﻿@model Vaccine
+
+<form method="post">
+    <table class="table">
+        <tbody>
+            <tr><th>Name</th><td><input type="text" value="@Model.Name" name="Name"></td></tr>
+            @if (Model.DosesRequired == 1)
+            {
+                <tr><th>Doses</th><td><select name="DosesRequired"><option value="1">1</option><option value="2">2</option></select></td></tr>
+            }
+            else
+            {
+                <tr><th>Doses</th><td><select name="DosesRequired"><option value="2">2</option><option value="1">1</option></select></td></tr>
+            }
+            <tr><th>Days Between Doses</th><td><input type="text" value="@Model.DaysBetweenDoses" name="DaysBetweenDoses" /></td></tr>
+            <tr><td><button>Save</button></td></tr>
+        </tbody>
+    </table>
+
+    <input name='id' type='hidden' value='@Model.Id'>
+</form>
